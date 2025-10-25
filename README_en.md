@@ -5,7 +5,6 @@
 > Let kana, vocabulary and word order sink into your fingertips with every keystroke.
 
 📍 Visit our website: https://www.flowtype.ai
-✉️ Contact us: hi@pomodiary.com
 
 ---
 
