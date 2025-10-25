@@ -90,7 +90,7 @@ FlowType.AI 是一个基于**打字练习 × 多感官学习**的沉浸式日语
 - ✅ 日语内容纠错
 - ✅ UI / UX 提案
 
-📌 点击提交 Issue：https://github.com/qiaoshouqing/FlowType.AI/issues  
+📌 点击提交 Issue：https://github.com/qiaoshouqing/flowtype-ai/issues  
 📌 欢迎 Star 支持项目，这会帮助更多学习者发现 FlowType.AI ⭐
 
 ---
