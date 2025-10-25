@@ -1,3 +1,5 @@
+[简体中文](README.md) | [繁體中文](README_tw.md) | [English](README_en.md) | [日本語](README_ja.md)
+
 # FlowType.AI · 打字學日語 / タイピングで日本語
 
 > 在心流中掌握日語 — Typing × Memory × Immersion  
