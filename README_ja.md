@@ -4,7 +4,7 @@
 > フロー状態で日本語をマスターする — タイピング × 記憶 × 没入感  
 > あらゆる打鍵で仮名、語彙、語順が指先に染み込むように。
 
-📍 ウェブサイト: https://flowtype.ai  
+📍 ウェブサイト: https://www.flowtype.ai  
 ✉️ お問い合わせ: hi@pomodiary.com
 
 ---
@@ -112,5 +112,5 @@ FlowType.AI は **タイピング練習 × 多感覚学習** を基盤とした�
 
 ### 🎌 日本語タイピング学習の旅を始めよう
 
-👉 https://flowtype.ai  
+👉 https://www.flowtype.ai  
 登録不要で無料スタート！
