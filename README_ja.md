@@ -5,7 +5,6 @@
 > あらゆる打鍵で仮名、語彙、語順が指先に染み込むように。
 
 📍 ウェブサイト: https://www.flowtype.ai  
-✉️ お問い合わせ: hi@pomodiary.com
 
 ---
 
