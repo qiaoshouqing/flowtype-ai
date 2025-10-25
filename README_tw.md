@@ -6,7 +6,6 @@
 > 在每一次擊鍵中，讓假名、詞彙與語序沉入指尖。
 
 📍 造訪網站：https://www.flowtype.ai  
-✉️ 聯絡我們：hi@pomodiary.com  
 
 ---
 
