@@ -1,4 +1,4 @@
-**语言选择**: [简体中文](README.md) | [繁體中文](README_tw.md) | [English](README_en.md) | [日本語](README_ja.md)
+[简体中文](README.md) | [繁體中文](README_tw.md) | [English](README_en.md) | [日本語](README_ja.md)
 # FlowType.AI · 打字学日语 / タイピングで日本語
 
 > 在心流中掌握日语 — Typing × Memory × Immersion  
