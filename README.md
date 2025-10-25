@@ -5,7 +5,6 @@
 > 在每一次击键中，让假名、词汇与语序沉入指尖。
 
 📍 访问网站：https://www.flowtype.ai  
-✉️ 联系我们：hi@pomodiary.com  
 
 ---
 
