@@ -1,3 +1,5 @@
+[简体中文](README.md) | [繁體中文](README_tw.md) | [English](README_en.md) | [日本語](README_ja.md)
+
 # FlowType.AI · Learn Japanese by Typing / タイピングで日本語
 > Master Japanese in a state of flow — Typing × Memory × Immersion
 > Let kana, vocabulary and word order sink into your fingertips with every keystroke.
