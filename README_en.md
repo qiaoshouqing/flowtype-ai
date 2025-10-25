@@ -4,7 +4,7 @@
 > Master Japanese in a state of flow — Typing × Memory × Immersion
 > Let kana, vocabulary and word order sink into your fingertips with every keystroke.
 
-📍 Visit our website: https://flowtype.ai
+📍 Visit our website: https://www.flowtype.ai
 ✉️ Contact us: hi@pomodiary.com
 
 ---
@@ -112,5 +112,5 @@ If you need cooperation or business inquiries, please contact: hi@pomodiary.com
 
 ### 🎌 Start your Japanese typing journey
 
-👉 https://flowtype.ai  
+👉 https://www.flowtype.ai  
 Start for free — no registration required!
