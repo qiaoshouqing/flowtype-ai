@@ -5,7 +5,7 @@
 > 在心流中掌握日語 — Typing × Memory × Immersion  
 > 在每一次擊鍵中，讓假名、詞彙與語序沉入指尖。
 
-📍 造訪網站：https://flowtype.ai  
+📍 造訪網站：https://www.flowtype.ai  
 ✉️ 聯絡我們：hi@pomodiary.com  
 
 ---
@@ -113,5 +113,5 @@ FlowType.AI 是一個基於**打字練習 × 多感官學習**的沉浸式日語
 
 ### 🎌 開始你的日語打字學習之旅
 
-👉 https://flowtype.ai  
+👉 https://www.flowtype.ai  
 免費開始，無需註冊！
